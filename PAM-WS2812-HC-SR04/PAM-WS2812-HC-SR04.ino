@@ -1,3 +1,11 @@
+////////////////////////////////////////////////////////////////////////////////////
+//
+//                               PI and more
+//                  Arduino and fun with WS2812 and HC-SR04
+//
+// https://piandmore.wordpress.com/2016/10/04/fun-with-hc-sr04-and-ws2812/
+//
+////////////////////////////////////////////////////////////////////////////////////
 //
 // The library from Adafruit which enables the use of the WS2812
 // or NeoPixel
